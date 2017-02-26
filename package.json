@@ -1,0 +1,8 @@
+{
+  "name": "python-range-generator",
+  "version": "1.0.0",
+  "description": "pythonic range generator",
+  "main": "index.js",
+  "author": "chee",
+  "license": "GPL-3.0+"
+}
